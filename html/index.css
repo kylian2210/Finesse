@@ -1,0 +1,198 @@
+@import url(normalize.css);
+
+body{
+
+}
+
+p.redu{
+    margin-left: 557px;
+}
+
+ul.ligne{
+    display: flex;
+    list-style: none;
+}
+
+a{
+    text-decoration-line: none;
+    color: black
+}
+
+li.principal{
+    margin-top: 75px;
+    margin-left: 50px;
+}
+
+#logo{
+    height: 200px;
+    display: flex;
+    margin-top: 0px;
+    padding: 0%;
+    margin-right: 0px;
+    margin-left: 80px;
+}
+
+.banniere{
+    display: flex;
+    height: 760px;
+}
+
+.rechercher{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 30px;
+}
+
+#rechercher{
+    display: flex;
+    width: 200px;
+    padding: 0px;
+    margin-left: 260px;
+    margin-top: 75px;
+    height: 30px;
+    margin-right: 100px;
+}
+
+button.classique{
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    border: none;
+    color: rgb(252, 252, 252);
+    background-color: black;
+    margin-left: 700px;
+    margin-top: 10px;
+    cursor: pointer;;
+}
+
+button:hover{
+    background-color: rgb(33, 33, 33);
+}
+
+.banniere:hover{
+    background-color: aqua;
+}
+
+#connexion{
+    padding: 0%;
+    height: 40px;
+    margin-top: 75px;
+    margin-right: 30px;
+}
+
+#pagner{
+    padding: 0%;
+    height: 40px;
+    margin-top: 75px;
+}
+
+.produit img{
+    margin-top: 150px;
+    height: 500px;
+}
+
+#bonnetreliefe{
+   height: 400px;
+}
+
+.card{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+.card img{
+    height: 900px;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+#blackline{
+    width: over;
+
+}
+
+fieldset.footer{
+    margin-top: 200px;
+    
+}
+
+.footall{
+    margin-left: 200px;
+    display: flex;
+
+}
+
+.footfin{
+    display: flex;
+    flex-direction: column;
+    margin-right: 300px;
+
+}
+
+.foothlp{
+    display: flex;
+    flex-direction: column;
+    margin-right: 300px;
+}
+
+.footcon{
+    display: flex;
+    flex-direction: column;
+    margin-right: 0px;    
+}
+
+.footall a{
+    margin-top: 20px;
+}
+
+.footall a:hover{
+    color: rgb(79, 78, 78);
+}
+
+.footvip{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+#emailfoot{
+    width: 200px;
+    height: 30px;
+}
+
+#logoco{
+    height: 30vh;
+    margin-top: 20vh;
+    margin-left: 30vh;
+}
+
+fieldset.connexion{
+    margin-top: 50vh;
+    margin-left: 30vh;
+    height: 30vh;
+    width: 40vh;
+}
+
+.prixpro{
+    margin-right: 150px;
+    margin-left: 70px;
+}
+
+.voirpro{
+    margin-right: 60px;
+}
+
+.voirpro:hover{
+    text-decoration: underline;
+
+}
+
+.tag{
+    margin-left: 0px;
+    margin-top: 100px;
+    display: flex;
+}
+
+
+
+
